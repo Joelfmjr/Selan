@@ -1,0 +1,3 @@
+/home/joel/UFRN/Selan/lp1/templates/lista I/lista/build/CMakeFiles/rebuild_cache.dir
+/home/joel/UFRN/Selan/lp1/templates/lista I/lista/build/CMakeFiles/run_tests.dir
+/home/joel/UFRN/Selan/lp1/templates/lista I/lista/build/CMakeFiles/edit_cache.dir
